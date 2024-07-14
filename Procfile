@@ -1,0 +1,1 @@
+web: java -jar build/libs/desenvolvimento-java-com-ia-0.0.1-SNAPSHOT.jar
